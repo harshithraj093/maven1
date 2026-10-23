@@ -23,4 +23,4 @@ jobs:
           distribution: "temurin"
 
       - name: Compile Java Program
-        run: javac new.java
+        run: javac new1.java
